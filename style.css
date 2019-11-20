@@ -1,0 +1,29 @@
+
+		#inputText, #chatLog{
+			border: solid 1px black;
+			width: 100%;
+		}		
+		#chatLog{
+			height: 200px;
+		}
+		#contents{
+			border: solid 1px black;
+			width: 100%;
+			height: 200px;
+		}	
+		#chatLogDiv
+		{
+			float: left;
+			width: 90%;
+			height: 100%;
+		}
+		#userListDiv 
+		{
+			height: 100%;
+			overflow: auto;
+		}
+		#userList
+		{
+			height: 100%;
+			overflow: auto;
+		}
